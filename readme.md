@@ -30,4 +30,5 @@ Extension for credentials management with autofill feature for plus4u services.
 - import/export feature
 - multiple accounts per domain
 - autofill right from the password input type
-
+- store data under master key, automatic invalidation of key after 5 minutes
+- settings screen, allowing manage all data
